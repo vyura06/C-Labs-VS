@@ -1,0 +1,35 @@
+﻿  main.cpp
+C:\Users\Zahar\source\repos\Project7_1\Project7_1\main.cpp(25,30): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Zahar\source\repos\Project7_1\Project7_1\main.cpp(25,22): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Zahar\source\repos\Project7_1\Project7_1\main.cpp(27,18): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Zahar\source\repos\Project7_1\Project7_1\main.cpp(29,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Zahar\source\repos\Project7_1\Project7_1\main.cpp(32,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Zahar\source\repos\Project7_1\Project7_1\main.cpp(34,18): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Zahar\source\repos\Project7_1\Project7_1\main.cpp(43,19): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Zahar\source\repos\Project7_1\Project7_1\main.cpp(45,19): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Zahar\source\repos\Project7_1\Project7_1\main.cpp(48,19): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Zahar\source\repos\Project7_1\Project7_1\main.cpp(50,15): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Zahar\source\repos\Project7_1\Project7_1\main.cpp(54,29): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Zahar\source\repos\Project7_1\Project7_1\main.cpp(54,21): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Zahar\source\repos\Project7_1\Project7_1\main.cpp(82,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Zahar\source\repos\Project7_1\Project7_1\main.cpp(84,23): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Zahar\source\repos\Project7_1\Project7_1\main.cpp(86,19): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Zahar\source\repos\Project7_1\Project7_1\main.cpp(101,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Zahar\source\repos\Project7_1\Project7_1\main.cpp(105,23): warning C4305: аргумент: усечение из "double" в "float"
+  Project7_1.vcxproj -> C:\Users\Zahar\source\repos\Project7_1\x64\Debug\Project7_1.exe

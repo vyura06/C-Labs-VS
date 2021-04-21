@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\User\source\repos\Project9\Project9\Source.c(36,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Project9\Project9\Source.c(50,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Project9\Project9\Source.c(70,9): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+  Project9.vcxproj -> C:\Users\User\source\repos\Project9\Debug\Project9.exe

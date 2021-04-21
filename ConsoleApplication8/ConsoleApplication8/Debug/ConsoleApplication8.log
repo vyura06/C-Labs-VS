@@ -1,0 +1,9 @@
+﻿  ConsoleApplication8.cpp
+C:\Users\User\source\repos\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.cpp(33,46): error C2440: =: невозможно преобразовать "char" в "char *"
+C:\Users\User\source\repos\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.cpp(33,37): message : Для преобразования из целого типа в указатель требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Users\User\source\repos\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.cpp(41,44): error C2440: =: невозможно преобразовать "char" в "char *"
+C:\Users\User\source\repos\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.cpp(41,36): message : Для преобразования из целого типа в указатель требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Users\User\source\repos\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.cpp(49,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\source\repos\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.cpp(50,36): error C2440: =: невозможно преобразовать "char" в "char *"
+C:\Users\User\source\repos\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.cpp(50,34): message : Для преобразования из целого типа в указатель требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Users\User\source\repos\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.cpp(66,14): warning C4477: "printf_s": в строке форматирования "%c" требуется аргумент типа "int", но вариативный аргумент "2" имеет тип "char *"

@@ -1,0 +1,35 @@
+﻿  ConsoleApplication3.cpp
+C:\Users\User\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(1,24): error C4430:  отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\User\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(1,14): error C2146:  синтаксическая ошибка: отсутствие ";" перед идентификатором "Мороз"
+C:\Users\User\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(1,39): error C2059:  синтаксическая ошибка: константа
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\sal.h(2361,12): error C2143:  синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\sal.h(2361,12): error C2447:  {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\User\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(145,24): error C4430:  отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\User\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(145,24): error C2086:  int Михаил: переопределение
+C:\Users\User\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(1): message :   см. объявление "Михаил"
+C:\Users\User\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(145,14): error C2146:  синтаксическая ошибка: отсутствие ";" перед идентификатором "Мороз"
+C:\Users\User\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(145,39): error C2059:  синтаксическая ошибка: константа
+C:\Users\User\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(146,25): error C2143:  синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\User\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(146,25): error C2447:  {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\User\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(183,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(213,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(253,4): error C3861:  inputFile: идентификатор не найден
+C:\Users\User\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(290,24): error C4430:  отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\User\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(290,24): error C2086:  int Михаил: переопределение
+C:\Users\User\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(1): message :   см. объявление "Михаил"
+C:\Users\User\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(290,14): error C2146:  синтаксическая ошибка: отсутствие ";" перед идентификатором "Мороз"
+C:\Users\User\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(290,39): error C2059:  синтаксическая ошибка: константа
+C:\Users\User\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(291,21): error C2143:  синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\User\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(291,21): error C2447:  {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\User\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(311,2): error C3861:  input: идентификатор не найден
+C:\Users\User\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(312,2): error C3861:  process: идентификатор не найден
+C:\Users\User\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(317,24): error C4430:  отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\User\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(317,24): error C2086:  int Михаил: переопределение
+C:\Users\User\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(1): message :   см. объявление "Михаил"
+C:\Users\User\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(317,14): error C2146:  синтаксическая ошибка: отсутствие ";" перед идентификатором "Мороз"
+C:\Users\User\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(317,39): error C2059:  синтаксическая ошибка: константа
+C:\Users\User\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(318,35): error C2143:  синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\User\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(318,35): error C2447:  {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\User\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(346,20): error C3861:  searchIndexBySurname: идентификатор не найден
+C:\Users\User\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(356,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(406,21): warning C4018:  <: несоответствие типов со знаком и без знака
